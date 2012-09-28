@@ -42,9 +42,9 @@ namespace DawidBurek.ErrorMsg
         {
             InitializeComponent();
 
-            ErrorMsg.ErrorDetails = "";
-            ErrorMsg.EmailRecipient = "";
-            ErrorMsg.EmailSubject = "";
+            //ErrorMsg.ErrorDetails = "";
+            //ErrorMsg.EmailRecipient = "";
+            //ErrorMsg.EmailSubject = "";
 
             LabelMessage.Text = "W aplikacji wystąpił nieoczekiwany wyjątek.\nSzczegóły problemu znajdują się w raporcie.";
         }
