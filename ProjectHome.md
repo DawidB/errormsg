@@ -1,0 +1,1 @@
+A library designed to display dialog box for handled errors with ability to copy messages to clipboard or send them by e-mail. Library works similar to .NET MessageBox class, but has an additional reporting tool.
